@@ -20,7 +20,8 @@ This project was developed with the aim to provide users with advanced SOS servi
 
 4. **Location Tracking**: The project incorporates location tracking functionality, allowing the user's location to be monitored by the police department and emergency contacts for timely assistance.
 
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/SOS.jpeg"  width="300"/>
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/SOS.jpeg"  width="200" align="left"/>
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png"  width="600"/>
 
 ## License
 
