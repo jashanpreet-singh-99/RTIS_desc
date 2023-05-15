@@ -2,8 +2,8 @@
 
 Weblink: = (Desktop Only) https://rtis-web2.000webhostapp.com 
 
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/Dash.jpeg"  align="left"/>
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/profile.jpeg" />
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/Dash.jpeg" width="300" align="left"/>
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/profile.jpeg" width="300"/>
 
 
 ## Introduction
