@@ -1,6 +1,6 @@
 # Real-Time SOS System
 
-** Open Repository for demo images nad project builds**
+**Open Repository for demo images nad project builds**
 
 Weblink: = (Desktop Only) https://rtis-web2.000webhostapp.com 
 
