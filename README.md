@@ -1,6 +1,6 @@
 # Real-Time SOS System
 
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png"/>
+![demo 1](https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png)
 
 **Open Repository for demo images & project builds**
 
