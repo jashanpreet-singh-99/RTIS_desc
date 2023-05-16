@@ -4,7 +4,7 @@
 
 Weblink: = (Desktop Only) https://rtis-web2.000webhostapp.com 
 
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png"/>
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png">
 
 ## Introduction
 
