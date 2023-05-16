@@ -4,13 +4,14 @@
 
 Weblink: = (Desktop Only) https://rtis-web2.000webhostapp.com 
 
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/Dash.jpeg" width="300" align="left"/>
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/profile.jpeg" width="300"/>
-
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png"/>
 
 ## Introduction
 
 This project was developed with the aim to provide users with advanced SOS services as well as a way to determine the safety of the route they will be taking at any given point in time. Since there are only a limited number of police officers available and weather conditions can greatly affect the safety rating of a region, a model was developed to give the route a safety rating. This safety rating is based on factors such as weather reports, population density, CCTV camera coverage, and police patrolling. The model is then used to plot a safe route for the users.
+
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/Dash.jpeg" width="300" align="left"/>
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/profile.jpeg" width="300"/>
 
 ## Features
 
