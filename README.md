@@ -1,10 +1,10 @@
 # Real-Time SOS System
 
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png"/>
+
 **Open Repository for demo images & project builds**
 
-Weblink: = (Desktop Only) https://rtis-web2.000webhostapp.com 
-
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png">
+Weblink: = (Desktop Only) https://rtis-web2.000webhostapp.com
 
 ## Introduction
 
@@ -24,7 +24,7 @@ This project was developed with the aim to provide users with advanced SOS servi
 4. **Location Tracking**: The project incorporates location tracking functionality, allowing the user's location to be monitored by the police department and emergency contacts for timely assistance.
 
 <img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/SOS.jpeg"  width="200" align="left"/>
-<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png"  width="600"/>
+<img src="https://raw.githubusercontent.com/jashanpreet-singh-99/RTIS_desc/main/demo.png"  width="600" />
 
 ## License
 
